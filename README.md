@@ -7,6 +7,7 @@
 2. [Tools & Technologies](#tools--technologies)
 3. [Project Features](#project-features)
 4. [Visualizations](#visualizations)
+5. [Project scripts](#project-scripts)
    
 
 ## 📖 **Overview**
@@ -46,6 +47,27 @@ This project involves web scraping data from Amazon India's best-sellers in the 
 
 
 **Insight:** Most books have ratings of 4 stars or higher, indicating the dominance of high-quality educational resources.
+
+---
+
+## 📂 Project Scripts
+
+### `scraper.py` (Web Scraper)
+This script handles the data extraction from Amazon.
+
+![Web Scraper Code](![Screenshot (114)](https://github.com/user-attachments/assets/0596423d-c7ca-4cca-8b06-428d8f3d6890)
+)
+
+---
+
+### `visualize.py` (Visualization)
+This script generates visualizations such as ratings distribution and author representation.
+
+![Visualization Code](![Screenshot (115)](https://github.com/user-attachments/assets/958acfd3-28b7-43be-99e1-2b236492e1cc)
+)
+
+
+
 
 
 
